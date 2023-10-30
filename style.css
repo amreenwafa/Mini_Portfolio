@@ -171,6 +171,12 @@ span {
   border-radius: 8px;
   padding: 0.4rem 0.6rem;
   margin: 0.3rem 0;
+
+  column-count: 2;
+  column-gap: 40px;
+  column-rule-style: solid;
+  column-rule-width: 1px;
+  column-rule-color: var(--color3);
 }
 
 .column {
